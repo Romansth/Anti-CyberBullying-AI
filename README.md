@@ -1,7 +1,7 @@
 # Anti CyberBullying
 
 
-This repository contains source code of our project for Quantum Hack. Anti-CyberBullying is Machine Learning Based Solution to detect offensive and abusive texts from a blog post.
+Anti-CyberBullying is Machine Learning Based Solution to detect offensive and abusive texts from a blog post.
 
 
 # Description
